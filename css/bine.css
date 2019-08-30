@@ -11,3 +11,10 @@ body{
 	background-repeat: no-repeat;
   background-size: 1500px 1000px;
 }
+a{
+	color: red;
+	font-size:20px;
+}
+a:hover{
+	color: #FF00EC
+}
